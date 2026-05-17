@@ -2,8 +2,7 @@
 
 > 🎓 **Academic Context:** This project was completed in **April 2023** as a **Bachelor of Engineering (B.E.) Final Year Project** at **Prof. Ram Meghe Institute of Technology & Research (PRMIT&R)**, Department of Computer Science & Engineering.
 
-> 👤 **My Contribution:** This was a team project. My personal contribution was focused entirely on the **Lung Cancer prediction module** — specifically the CNN architecture design, DICOM-to-PNG preprocessing, model training using Keras/TensorFlow, and the Django-based lung app interface. I was **not involved** in building the Heart Attack or Diabetes prediction models (those used classical ML via scikit-learn and were handled by other team members).
-
+> 👤 **My Contribution:** This was a team project. My personal contribution was focused entirely on the **Lung Cancer prediction module** — specifically the CNN architecture design, DICOM-to-PNG preprocessing, model training using Keras/TensorFlow, and the lung app interface.
 ---
 
 ## Project Description
